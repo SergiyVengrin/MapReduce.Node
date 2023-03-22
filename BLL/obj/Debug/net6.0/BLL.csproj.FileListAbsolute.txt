@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\MapReduce\Node\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\VisualStudioProjects\MapReduce\Node\BLL\bin\Debug\net6.0\BLL.dll
+D:\VisualStudioProjects\MapReduce\Node\BLL\bin\Debug\net6.0\BLL.pdb
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\BLL.dll
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\BLL.pdb
+D:\VisualStudioProjects\MapReduce\Node\BLL\obj\Debug\net6.0\ref\BLL.dll
